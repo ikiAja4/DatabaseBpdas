@@ -1,0 +1,10 @@
+/* Gaya untuk tautan (link) */
+a {
+    text-decoration: none; /* Menghapus garis bawah default pada tautan */
+    color: #ffa200; /* Warna teks tautan */
+    transition: color 0.3s ease; /* Efek transisi warna teks saat tautan dihover */
+}
+
+a:hover {
+    color: #0056b3; /* Warna teks saat tautan dihover */
+}
